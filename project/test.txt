@@ -1,4 +1,0 @@
-This is confluent kafka repo for kafka support.
-I am checking this code for push data .
-
-
